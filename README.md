@@ -13,7 +13,9 @@ Give Star & Fork this repo, then upload **token.pickle** & **credentials.json** 
 to know how to get them click on the  #[ link ](https://github.com/spe4641/test-new#getting-google-oauth-api-credential-file)
 
 after this click on the below button 👇👇👇👇
-<p><a href="https://heroku.com/deploy"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/flixcinema/Heroku-slam"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+
+**Connect To Github in Heroku Before Deploy (Because its Private Repo)**
 
 ## This the structure of Bot
 
